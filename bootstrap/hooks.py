@@ -15,12 +15,12 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/bootstrap/css/bootstrap.css"
-# app_include_js = "/assets/bootstrap/js/bootstrap.js"
+# app_include_css = "/sernet_assets/bootstrap/css/bootstrap.css"
+# app_include_js = "/sernet_assets/bootstrap/js/bootstrap.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/bootstrap/css/bootstrap.css"
-# web_include_js = "/assets/bootstrap/js/bootstrap.js"
+# web_include_css = "/sernet_assets/bootstrap/css/bootstrap.css"
+# web_include_js = "/sernet_assets/bootstrap/js/bootstrap.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
